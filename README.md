@@ -1,4 +1,4 @@
-# Final Project
+# GUI Apps
 
 ## Let's get started!
 
